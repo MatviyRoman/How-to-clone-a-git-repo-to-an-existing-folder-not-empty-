@@ -26,6 +26,6 @@ other method
 
 1. git init
 2. echo \* > .gitignore
-3. git remote add origin https://github.com/Kentico/ems-module-kontent-publishing.git
+3. git remote add origin https://github.com/MatviyRoman/How-to-clone-a-git-repo-to-an-existing-folder-not-empty-.git
 4. git fetch
 5. git checkout origin/master -b master
